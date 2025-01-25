@@ -1,14 +1,15 @@
 import EOnChange from "./components/EOnChange"
 import ColorPicker from "./ColorPicker"
+import CounterUpdaterFunction from "./components/CounterUpdaterFunction"
 function App() {
 
 
   return (
     <>
       <div>
-
+<CounterUpdaterFunction/>
         <ColorPicker/>
-        
+
         <hr /><hr /><hr />
     <EOnChange></EOnChange>
         
