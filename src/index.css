@@ -1,0 +1,13 @@
+.student-button {
+  background-color: darkgrey;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+}
+.student-button:hover{
+  cursor: pointer;
+  color: black;
+}
